@@ -1,3 +1,8 @@
+
+![Screenshot 2023-08-28 020720](https://github.com/haolam05/React-Date-Counter/assets/71291057/f1a6d6e8-d1e7-4112-987a-96618a54f244)
+![Screenshot 2023-08-28 020714](https://github.com/haolam05/React-Date-Counter/assets/71291057/4ed6f6dd-2d67-46ab-854f-9df3a5b838d8)
+![Screenshot 2023-08-28 020726](https://github.com/haolam05/React-Date-Counter/assets/71291057/35a10e45-cf70-4da8-9125-9e16a998f4e0)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
